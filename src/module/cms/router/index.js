@@ -15,10 +15,6 @@ export default [{
     // children: [
     //   {path: 'home', component: Home}
     // ]
-  }/*,
-  {
-    path: '/login',
-    component: Login,
     name: 'Login',
     hidden: true
   }*/
